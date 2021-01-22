@@ -14,6 +14,7 @@ You can also find me at my [LinkedIn](https://www.linkedin.com/in/haroldo-bacell
 
 
 These are some of the technologies and tools that I work with:
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
