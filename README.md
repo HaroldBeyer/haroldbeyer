@@ -1,10 +1,10 @@
 # Hello there! :sunglasses:
 
-My name is Haroldo Beyer, i am a Software Engineer and i have been passionate about technology since i was a teenager. :desktop_computer: 
+My name is Haroldo Beyer, I am a Software Engineer and i have been passionate about technology since I was a teenager. :desktop_computer: 
 
-I'm from Brazil, and i live in the city of Salvador, in the state of Bahia :sunny:
+I'm from Brazil, and i live in the city of Frankfurt, in Germany 🏰
 
-I am have an bachelor in Software Engineering :construction_worker: and currently am doing an MBA in Software Architecture :european_castle:
+I am have an bachelor in Software Engineering :construction_worker: and an MBA in Software Architecture 📚
 I am an enthusiast in the field of Cloud Computing, mainly in the field of Serverless Computing. :cloud:
 
 
